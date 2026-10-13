@@ -16,7 +16,7 @@ This project was written in R. The final code for the project was written by me 
 
 To run this code for yourself:
   1. Download either the R Markdown or the R script file, as well as `loyalty.csv`, `test.csv`, and `train.csv` files in this repo.
-  2. Run the R Markdown or R script file in RStudio or another R IDE. The filepath for loading files is already set to "Downloads."
+  2. Run the R Markdown or R script file in RStudio or another R IDE. You may need to reset your working directory file path.
   3. You may need to install the "tidyverse" and "randomForest" following packages before use, if you have not done so previously. To do this, open R and run: `install.packages("tidyverse")` and `install.packages("randomForest")`.
 
 For further inquiries, contact me on LinkedIn at https://www.linkedin.com/in/torben-parker/, or on GitHub.
