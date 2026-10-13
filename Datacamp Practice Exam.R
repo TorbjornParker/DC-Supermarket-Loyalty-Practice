@@ -90,8 +90,6 @@ count_decimals <- function(my_vector) {
 
 # Use this cell to write your code for Task 1
 
-setwd("~/Downloads/DataCamp/Practice Exam")
-
 # Task 1a. File loading
 
 clean_data_old <- read_csv("loyalty.csv")
